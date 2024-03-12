@@ -38,6 +38,6 @@ I'm a web developer based in Poland. Developing websites and webservices is some
 </div>
 
 ### Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nyviel&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nyviel&theme=radical&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyviel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyviel&layout=donut&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
