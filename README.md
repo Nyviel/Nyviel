@@ -8,9 +8,6 @@
     <a href="https://pkaczmarski.pages.dev/">
       <img src="https://img.shields.io/badge/Portfolio-yellow?style=for-the-badge" alt="Portfolio"/>
     </a>
-    <a href="https://exercism.org/profiles/Eciric">
-      <img src="https://img.shields.io/badge/Exercism-purple?style=for-the-badge&logo=exercism&logoColor=white" alt="Exercism Badge"/>
-    </a>
   </div>
 </div>
 
